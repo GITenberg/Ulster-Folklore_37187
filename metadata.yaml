@@ -1,0 +1,32 @@
+_repo: Ulster-Folklore_37187
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, Elizabeth, F.R.A.I.
+    gutenberg_agent_id: '38692'
+    url: http://www.gutenberg.org/2009/agents/38692
+description: ''
+gutenberg_issued: '2011-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37187'
+  lccn: '14013388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Ulster (Northern Ireland and Ireland) -- Social life and customs'
+- !lcsh 'Fairies -- Ulster (Northern Ireland and Ireland)'
+- !lcsh 'Hamilton, William, 1755-1797'
+- !lcsh 'Folklore -- Ulster (Northern Ireland and Ireland)'
+tableOfContents: Fairies and their dwelling-places -- A day at Maghera, co. Londonderry
+  -- Ulster fairies, Danes, and Pechts -- Folklore connected with Ulster raths and
+  souterrains -- Traditions of dwarf races in Ireland and in Switzerland -- Folklore
+  from Donegal -- Giants and dwarfs -- The Rev. William Hamilton, D.D.
+title: Ulster Folklore
+url: http://www.gutenberg.org/ebooks/37187
